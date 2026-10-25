@@ -1,0 +1,5 @@
+Variant,Period,epsilon_1000,stop_iteration,status
+No restart,,-12.01556125464345,764,tolerance
+T=ceil(sqrt(kappa)),5,-12.039823093161749,395,tolerance
+T=ceil(5sqrt(kappa)),24,-12.244662924680599,231,tolerance
+T=ceil(20sqrt(kappa)),93,-12.037522397643581,365,tolerance

@@ -3,3 +3,14 @@ __pycache__/
 .venv/
 .env
 .pytest_cache/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Reproducible optimization experiment data
+*.npz
+
+# Keep generated figures and summary tables
+!*.png
+!*.csv
